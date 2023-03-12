@@ -4,9 +4,9 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feelipemagalhaes/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057779114385)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemglh&show_icons=true&theme=dracula)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=feelipemagalhaes&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemglh&layout=compact)](https://github.com/felipemglh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelipemagalhaes&layout=compact)](https://github.com/feelipemagalhaes/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
